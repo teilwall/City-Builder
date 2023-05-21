@@ -36,10 +36,10 @@ From designing the layout of the city to managing its infrastructure and service
 
 
 ### Developers
-Alibek Kalykov
+- Alibek Kalykov
 
-Atabek Mykyev
+- Atabek Mykyev
 
-Munkh-Aldar Munkhtenger
+- Munkh-Aldar Munkhtenger
 
-Goncalves Kalilo
+- Goncalves Kalilo
