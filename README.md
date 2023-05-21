@@ -33,3 +33,10 @@ From designing the layout of the city to managing its infrastructure and service
 5. Face challenges and overcome obstacles as your city grows and evolves.
 
 6. Continuously monitor and optimize your city's performance to become the ultimate city builder and mayor.
+
+
+### Developers
+Alibek Kalykov
+Atabek Mykyev
+Munkh-Aldar Munkhtenger
+Goncalves Kalilo
